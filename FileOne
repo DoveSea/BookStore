@@ -1,2 +1,4 @@
-var name='xiaoming',
-console.log(name)
+var xiaoming {name='xiaoming',age=18,sex=female}
+console.log(xiaoming)
+var colorList={'Blue','Pink','Red'}
+for(i=0;i<colorList.length);i++){console.log(colorList[i])}
